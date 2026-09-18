@@ -88,5 +88,23 @@
     "pdf_pages": 304,
     "duplicate_of": null,
     "extraction": "pending_structured_review"
+  },
+  {
+    "id": "S12",
+    "original_filename": "Новая_косметология_2_том_Марголина.PDF",
+    "path": "sources/S12_Margolina_Novaya_kosmetologiya_Tom_2.pdf",
+    "sha256": "ed3dd2dc0d5aee4b7fa339e6c1b7076e96cbd23f8dde17c57d689338b76a733a",
+    "pdf_pages": 390,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review"
+  },
+  {
+    "id": "S13",
+    "original_filename": "Новая_косметтология_1_том_Марголина.PDF",
+    "path": "sources/S13_Margolina_Novaya_kosmetologiya_Tom_1.pdf",
+    "sha256": "b9b9da38becfa4c6007cc4bc9893f0e1840aed67b4807d07533715c26259e79a",
+    "pdf_pages": 212,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review"
   }
 ]
