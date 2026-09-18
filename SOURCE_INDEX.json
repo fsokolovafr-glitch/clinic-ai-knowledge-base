@@ -79,5 +79,14 @@
     "pdf_pages": 125,
     "duplicate_of": "S03",
     "extraction": "text_layer"
+  },
+  {
+    "id": "S11",
+    "original_filename": "Бочарова_Основы_практ_косметологии.pdf",
+    "path": "sources/S11_Bocharova_Osnovy_prakticheskoy_kosmetologii.pdf",
+    "sha256": "6e9631c378a2ada20bfda12ec4d7dda97bd368d18342c8729758f0957be7aed4",
+    "pdf_pages": 304,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review"
   }
 ]
