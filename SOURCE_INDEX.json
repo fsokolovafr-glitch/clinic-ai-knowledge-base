@@ -96,7 +96,14 @@
     "sha256": "ed3dd2dc0d5aee4b7fa339e6c1b7076e96cbd23f8dde17c57d689338b76a733a",
     "pdf_pages": 390,
     "duplicate_of": null,
-    "extraction": "pending_structured_review"
+    "extraction": "pending_structured_review",
+    "github_storage_parts": [
+      "sources/S12_Tom_2.part-00",
+      "sources/S12_Tom_2.part-01",
+      "sources/S12_Tom_2.part-02",
+      "sources/S12_Tom_2.part-03"
+    ],
+    "storage_note": "GitHub web upload limit required byte-exact split into 4 parts; concatenate in numeric order to restore the original PDF."
   },
   {
     "id": "S13",
@@ -105,6 +112,11 @@
     "sha256": "b9b9da38becfa4c6007cc4bc9893f0e1840aed67b4807d07533715c26259e79a",
     "pdf_pages": 212,
     "duplicate_of": null,
-    "extraction": "pending_structured_review"
+    "extraction": "pending_structured_review",
+    "github_storage_parts": [
+      "sources/S13_Tom_1.part-00",
+      "sources/S13_Tom_1.part-01"
+    ],
+    "storage_note": "GitHub web upload limit required byte-exact split into 2 parts; concatenate in numeric order to restore the original PDF."
   }
 ]
