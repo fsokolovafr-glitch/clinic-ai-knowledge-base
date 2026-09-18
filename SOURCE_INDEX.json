@@ -1,0 +1,69 @@
+{
+  "repository": "clinic-ai-knowledge-base",
+  "branch": "main",
+  "documents": [
+    {
+      "id": "S01",
+      "filename": "S01_HydroPeptide_Mens_Facial.pdf",
+      "title": "Hydropeptide Mens Facial",
+      "category": "product",
+      "type": "pdf"
+    },
+    {
+      "id": "S02",
+      "filename": "S02_M17_Brochure_EN.pdf",
+      "title": "M17 Brochure EN",
+      "category": "brochure",
+      "type": "pdf"
+    },
+    {
+      "id": "S03",
+      "filename": "S03_HydroPeptide_Training_Guide_2024.pdf",
+      "title": "Hydropeptide Training Guide 2024",
+      "category": "training",
+      "type": "pdf"
+    },
+    {
+      "id": "S04",
+      "filename": "S04_GenX_Technical_Dossier.pdf",
+      "title": "GenX Technical Dossier",
+      "category": "technical",
+      "type": "pdf"
+    },
+    {
+      "id": "S05",
+      "filename": "S05_Project_Brief.txt",
+      "title": "Project Brief",
+      "category": "brief",
+      "type": "txt"
+    },
+    {
+      "id": "S06",
+      "filename": "S06_M17_User_Manual.pdf",
+      "title": "M17 User Manual",
+      "category": "manual",
+      "type": "pdf"
+    },
+    {
+      "id": "S07",
+      "filename": "S07_md_complex_peel_GenX_Catalogue.pdf",
+      "title": "MD Complex Peel GenX Catalogue",
+      "category": "catalogue",
+      "type": "pdf"
+    },
+    {
+      "id": "S08",
+      "filename": "S08_GenX_Professional_Catalogue.pdf",
+      "title": "GenX Professional Catalogue",
+      "category": "catalogue",
+      "type": "pdf"
+    },
+    {
+      "id": "S10",
+      "filename": "S10_Esthetics_Guide.pdf",
+      "title": "Esthetics Guide",
+      "category": "guide",
+      "type": "pdf"
+    }
+  ]
+}
