@@ -87,7 +87,17 @@
     "sha256": "6e9631c378a2ada20bfda12ec4d7dda97bd368d18342c8729758f0957be7aed4",
     "pdf_pages": 304,
     "duplicate_of": null,
-    "extraction": "pending_structured_review"
+    "extraction": "pending_structured_review",
+    "structured_review_file": "S11_STRUCTURED_REVIEW.md",
+    "structured_review_progress": {
+      "reviewed_pdf_ranges": [
+        "1-5",
+        "33-75",
+        "303-304"
+      ],
+      "complete": false,
+      "note": "Source map and first thematic block completed; remaining chapters are not yet structured. PDF ends at page 304 although the table of contents lists appendices on printed pages 305-312."
+    }
   },
   {
     "id": "S12",
@@ -97,6 +107,16 @@
     "pdf_pages": 390,
     "duplicate_of": null,
     "extraction": "pending_structured_review",
+    "structured_review_file": "S12_STRUCTURED_REVIEW.md",
+    "structured_review_progress": {
+      "reviewed_pdf_ranges": [
+        "1-5",
+        "118-128",
+        "385-390"
+      ],
+      "complete": false,
+      "note": "Source map and first apparatus-cosmetology block completed. This is an image-only scan; PDF and printed page numbers differ and must both be recorded. Remaining chapters are not yet structured."
+    },
     "github_storage_parts": [
       "sources/S12_Tom_2.part-00",
       "sources/S12_Tom_2.part-01",
