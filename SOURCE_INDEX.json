@@ -81,6 +81,15 @@
     "extraction": "text_layer"
   },
   {
+    "id": "S10",
+    "original_filename": "Esthetics Guide.pdf",
+    "path": "sources/S10_Esthetics_Guide.pdf",
+    "sha256": "ca9255cd999a20113484bdd7612f2e4be1fd1f9a7e5876040ca3cdba66272c08",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "extraction": "source_placeholder"
+  },
+  {
     "id": "S11",
     "original_filename": "Бочарова_Основы_практ_косметологии.pdf",
     "path": "sources/S11_Bocharova_Osnovy_prakticheskoy_kosmetologii.pdf",
