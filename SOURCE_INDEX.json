@@ -1,69 +1,151 @@
-{
-  "repository": "clinic-ai-knowledge-base",
-  "branch": "main",
-  "documents": [
-    {
-      "id": "S01",
-      "filename": "S01_HydroPeptide_Mens_Facial.pdf",
-      "title": "Hydropeptide Mens Facial",
-      "category": "product",
-      "type": "pdf"
-    },
-    {
-      "id": "S02",
-      "filename": "S02_M17_Brochure_EN.pdf",
-      "title": "M17 Brochure EN",
-      "category": "brochure",
-      "type": "pdf"
-    },
-    {
-      "id": "S03",
-      "filename": "S03_HydroPeptide_Training_Guide_2024.pdf",
-      "title": "Hydropeptide Training Guide 2024",
-      "category": "training",
-      "type": "pdf"
-    },
-    {
-      "id": "S04",
-      "filename": "S04_GenX_Technical_Dossier.pdf",
-      "title": "GenX Technical Dossier",
-      "category": "technical",
-      "type": "pdf"
-    },
-    {
-      "id": "S05",
-      "filename": "S05_Project_Brief.txt",
-      "title": "Project Brief",
-      "category": "brief",
-      "type": "txt"
-    },
-    {
-      "id": "S06",
-      "filename": "S06_M17_User_Manual.pdf",
-      "title": "M17 User Manual",
-      "category": "manual",
-      "type": "pdf"
-    },
-    {
-      "id": "S07",
-      "filename": "S07_md_complex_peel_GenX_Catalogue.pdf",
-      "title": "MD Complex Peel GenX Catalogue",
-      "category": "catalogue",
-      "type": "pdf"
-    },
-    {
-      "id": "S08",
-      "filename": "S08_GenX_Professional_Catalogue.pdf",
-      "title": "GenX Professional Catalogue",
-      "category": "catalogue",
-      "type": "pdf"
-    },
-    {
-      "id": "S10",
-      "filename": "S10_Esthetics_Guide.pdf",
-      "title": "Esthetics Guide",
-      "category": "guide",
-      "type": "pdf"
+[
+  {
+    "id": "S01",
+    "original_filename": "HydroPeptide Refueling Men's Facial.pdf",
+    "path": "sources/S01_HydroPeptide_Mens_Facial.pdf",
+    "sha256": "2ee79cdb79f46480e93d0cf17e3e3266cf87c0599749a48ca4ae3cbcf2e9e4ed",
+    "pdf_pages": 1,
+    "duplicate_of": null,
+    "extraction": "visual_review"
+  },
+  {
+    "id": "S02",
+    "original_filename": "M17_Brochure_EN.pdf",
+    "path": "sources/S02_M17_Brochure_EN.pdf",
+    "sha256": "4ffcaae0906e189de31e3899c74be03893c7585d7457243afa0c59408e83a475",
+    "pdf_pages": 72,
+    "duplicate_of": null,
+    "extraction": "text_layer"
+  },
+  {
+    "id": "S03",
+    "original_filename": "HydroPeptide-Training-Guide---2024 (1).pdf",
+    "path": "sources/S03_HydroPeptide_Training_Guide_2024.pdf",
+    "sha256": "d3ca27c7f2648ee5d71f649a4c4fa208501706cbca4e7202884b15c0c19f56f1",
+    "pdf_pages": 125,
+    "duplicate_of": null,
+    "extraction": "text_layer_and_selective_visual_review"
+  },
+  {
+    "id": "S04",
+    "original_filename": "mdcomplex Exosomes&Polynucleotides TECHNICAL DOSSIER.pdf",
+    "path": "sources/S04_GenX_Technical_Dossier.pdf",
+    "sha256": "94a7ad202885657c70c42413da9e99b4728e20ae8e6a97ce9e01dacac1a92335",
+    "pdf_pages": 15,
+    "duplicate_of": null,
+    "extraction": "text_layer"
+  },
+  {
+    "id": "S05",
+    "original_filename": "Pasted text.txt",
+    "path": "sources/S05_Project_Brief.txt",
+    "sha256": "1305dbb89ebe2360fa00882e0e5aefa894fe1d52f04136d55cfd8332bfedf3ec",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "extraction": "text"
+  },
+  {
+    "id": "S06",
+    "original_filename": "M17 User Manual.pdf",
+    "path": "sources/S06_M17_User_Manual.pdf",
+    "sha256": "4ef021f824c78a7c919e1eebe62f2857dd444ce92d7920fba6c3f242bbf79185",
+    "pdf_pages": 16,
+    "duplicate_of": null,
+    "extraction": "visual_review"
+  },
+  {
+    "id": "S07",
+    "original_filename": "md_complex+peel+GenX_A5_web.pdf",
+    "path": "sources/S07_md_complex_peel_GenX_Catalogue.pdf",
+    "sha256": "99be7ec6008f9a2407de2da32634307d50a2893c3163facecd1cb3cefd8ff52e",
+    "pdf_pages": 28,
+    "duplicate_of": null,
+    "extraction": "text_layer_and_selective_visual_review"
+  },
+  {
+    "id": "S08",
+    "original_filename": "41012 professional catalogue mdcomplex Exosomes.pdf",
+    "path": "sources/S08_GenX_Professional_Catalogue.pdf",
+    "sha256": "2aabdba022e098312b316a0ae1537b91d9c2e76395586129d7683c06a2249855",
+    "pdf_pages": 3,
+    "duplicate_of": null,
+    "extraction": "text_layer"
+  },
+  {
+    "id": "S09",
+    "original_filename": "HydroPeptide-Training-Guide---2024 (1) (1).pdf",
+    "path": "sources/S03_HydroPeptide_Training_Guide_2024.pdf",
+    "sha256": "d3ca27c7f2648ee5d71f649a4c4fa208501706cbca4e7202884b15c0c19f56f1",
+    "pdf_pages": 125,
+    "duplicate_of": "S03",
+    "extraction": "text_layer"
+  },
+  {
+    "id": "S10",
+    "original_filename": "Esthetics Guide.pdf",
+    "path": "sources/S10_Esthetics_Guide.pdf",
+    "sha256": "ca9255cd999a20113484bdd7612f2e4be1fd1f9a7e5876040ca3cdba66272c08",
+    "pdf_pages": null,
+    "duplicate_of": null,
+    "extraction": "source_placeholder"
+  },
+  {
+    "id": "S11",
+    "original_filename": "Бочарова_Основы_практ_косметологии.pdf",
+    "path": "sources/S11_Bocharova_Osnovy_prakticheskoy_kosmetologii.pdf",
+    "sha256": "6e9631c378a2ada20bfda12ec4d7dda97bd368d18342c8729758f0957be7aed4",
+    "pdf_pages": 304,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review",
+    "structured_review_file": "S11_STRUCTURED_REVIEW.md",
+    "structured_review_progress": {
+      "reviewed_pdf_ranges": [
+        "1-5",
+        "33-75",
+        "303-304"
+      ],
+      "complete": false,
+      "note": "Source map and first thematic block completed; remaining chapters are not yet structured. PDF ends at page 304 although the table of contents lists appendices on printed pages 305-312."
     }
-  ]
-}
+  },
+  {
+    "id": "S12",
+    "original_filename": "Новая_косметология_2_том_Марголина.PDF",
+    "path": "sources/S12_Margolina_Novaya_kosmetologiya_Tom_2.pdf",
+    "sha256": "ed3dd2dc0d5aee4b7fa339e6c1b7076e96cbd23f8dde17c57d689338b76a733a",
+    "pdf_pages": 390,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review",
+    "structured_review_file": "S12_STRUCTURED_REVIEW.md",
+    "structured_review_progress": {
+      "reviewed_pdf_ranges": [
+        "1-5",
+        "118-128",
+        "385-390"
+      ],
+      "complete": false,
+      "note": "Source map and first apparatus-cosmetology block completed. This is an image-only scan; PDF and printed page numbers differ and must both be recorded. Remaining chapters are not yet structured."
+    },
+    "github_storage_parts": [
+      "sources/S12_Tom_2.part-00",
+      "sources/S12_Tom_2.part-01",
+      "sources/S12_Tom_2.part-02",
+      "sources/S12_Tom_2.part-03"
+    ],
+    "storage_note": "GitHub web upload limit required byte-exact split into 4 parts; concatenate in numeric order to restore the original PDF."
+  },
+  {
+    "id": "S13",
+    "original_filename": "Новая_косметтология_1_том_Марголина.PDF",
+    "path": "sources/S13_Margolina_Novaya_kosmetologiya_Tom_1.pdf",
+    "sha256": "b9b9da38becfa4c6007cc4bc9893f0e1840aed67b4807d07533715c26259e79a",
+    "pdf_pages": 212,
+    "duplicate_of": null,
+    "extraction": "pending_structured_review",
+    "github_storage_parts": [
+      "sources/S13_Tom_1.part-00",
+      "sources/S13_Tom_1.part-01"
+    ],
+    "storage_note": "GitHub web upload limit required byte-exact split into 2 parts; concatenate in numeric order to restore the original PDF."
+  }
+]
